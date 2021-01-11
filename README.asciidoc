@@ -1,13 +1,26 @@
+Compiling ARGoS-Object simulation
+---------------------
+
+Requirements
+~~~~~~~~~~~~
+
+On linux there can be a problem with #pragma once in the header files.
+
 Compiling the code (linux)
 ~~~~~~~~~~~~~~~~~~
+
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make
 $ sudo make install
 
-Compiling the code (windows)
-~~~~~~~~~~~~~~~~~~
+
+The compilation of ARGoS simulation is configured through CMake.
+
+Compiling the code (windows, visual studio)
++++++++++++++++++++++++++++
 
 For windows, visual studio was used with built in cmake.
 Just open the folders in vs and run the cmake.
+Try to run it in x64-release version becuase it takes a long time to load in x64-debug.
