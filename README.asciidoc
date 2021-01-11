@@ -23,3 +23,4 @@ Compiling the code (windows, visual studio)
 
 For windows, visual studio was used with built in cmake.
 Just open the folders in vs and run the cmake.
+Try to run it in x64-release version becuase it takes a long time to load in x64-debug.
