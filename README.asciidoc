@@ -1,5 +1,3 @@
-Compiling ARGoS-Object simulation
----------------------
 
 Requirements
 ~~~~~~~~~~~~
