@@ -1,3 +1,5 @@
+INFO-H-502 opengl project by Piotr Rochala
+---------------------
 
 Requirements
 ~~~~~~~~~~~~
