@@ -15,9 +15,6 @@ $ cmake ..
 $ make
 $ sudo make install
 
-
-The compilation of ARGoS simulation is configured through CMake.
-
 Compiling the code (windows, visual studio)
 +++++++++++++++++++++++++++
 
