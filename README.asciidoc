@@ -1,13 +1,18 @@
-Compiling the code (linux)
-~~~~~~~~~~~~~~~~~~
-$ mkdir build
-$ cd build
-$ cmake ..
-$ make
-$ sudo make install
+Compiling ARGoS-Object simulation
+---------------------
 
-Compiling the code (windows)
+Requirements
+~~~~~~~~~~~~
+
+Before executing the following commands, you need to download, compile, and install argos3: https://github.com/ilpincy/argos3
+
+Compiling the code
 ~~~~~~~~~~~~~~~~~~
 
-For windows, visual studio was used with built in cmake.
-Just open the folders in vs and run the cmake.
+The compilation of ARGoS simulation is configured through CMake.
+
+Compiling for the simulator
++++++++++++++++++++++++++++
+
+1. install the argos3-object (more details in /argos3-object)
+2. run the simulation (more details in /argos3-simulation)
