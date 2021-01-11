@@ -1,0 +1,60 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 4
+
+newmtl Material.001
+Ns 475.745675
+Ka 1.000000 1.000000 1.000000
+Kd 0.281010 0.281010 0.281010
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd albedo.png
+map_Ks metallic.png
+map_Bump normal.png
+map_Ka ao.png
+map_emissive roughness.png
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.002374
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd albedo.png
+map_Ks metallic.png
+map_Bump normal.png
+map_Ka ao.png
+map_emissive roughness.png
+
+newmtl Material.005
+Ns 707.251608
+Ka 1.000000 1.000000 1.000000
+Kd 0.020379 0.020379 0.020379
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd albedo.png
+map_Ks metallic.png
+map_Bump normal.png
+map_Ka ao.png
+map_emissive roughness.png
+newmtl Material.006
+Ns 8.401596
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd albedo.png
+map_Ks metallic.png
+map_Bump normal.png
+map_Ka ao.png
+map_emissive roughness.png
